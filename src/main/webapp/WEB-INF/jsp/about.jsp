@@ -109,7 +109,7 @@
 
                 在线编辑器使用了百度的editor.md，支持图片上传，支持代码高亮特性；
 
-                服务器采用阿里云服务器，使用nginx代理，使用vsftpd搭建文件服务器。
+                服务器采用阿里云服务器，使用nginx代理，使用vsftpd搭建文件服务器。留言板采用了云评论（原畅言）。
                 <p>项目源码：<a href="https://gitee.com/DouHaibo/Blog" target="_blank">点击查看</a></p>
             </div>
         </div>
@@ -122,6 +122,7 @@
                 <p>一枚努力学习Javaweb的菜鸟,欢迎各位给出指导意见。</p>
                 <p>欢迎访问一个前后端分离的电商平台 <a href="http://mmall.xiaodou97.top" target="_blank">http://mmall.xiaodou97.top</a></p>
                 <p>码云地址：<a href="https://gitee.com/DouHaibo" target="_blank">https://gitee.com/DouHaibo</a></p>
+                <p>github:<a href="https://github.com/douhaibo" target="_blank">https://github.com/douhaibo</a></p>
             </div>
         </div>
     </div>
